@@ -1,0 +1,51 @@
+ h1 {
+    color: #256D85;
+    text-align: center;
+  
+    font-size: 450%;
+}
+
+h2 {
+    color: #256D85;
+    text-align: center;
+}
+
+
+body {
+    background-color: #06283D;
+}
+
+.footer {
+    color: #256D85;
+    text-align: left;
+    font-size: 100%;   
+   }
+    
+ ul, ol, p {
+        color: #DFF6FF;
+        text-align: center;
+    }
+
+    a {
+        color: #47b5ff;
+            
+    }
+    
+    
+    img {
+        width: 25%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    
+    h3 {
+        text-align: left;
+        color: #256D85;
+        font-size: 100%;
+    }
+    
+    div {
+        text-align: center;
+        color: white;
+    }
